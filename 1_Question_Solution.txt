@@ -1,0 +1,8 @@
+* Question_Ans_1 *
+
+SEO ->  Search engine optmization is a techniques at improving a website's visibility on search like Google, Bing, Yahoo. The primary goal of SEO is to enhance the website's ranking in search engine results pages (SERPs) for specific keywords or phrases relevant to the content or product/services offered by the site.
+Importance: 
+1. -> Meta tag are imporant for Seo becuase they provide information to search engines about thecontent on your site and can help our website's visibility and ranking and search engines result pages.
+2. -> Seo involves optimizing the website's structure content and over all user experience. a well optimized site is more likely to provide a positive experience for visitors, leading to higher satisfaction and engagement.
+3. -> A well-optimized website provides a better user experience, which can contribute to improved conversion rates. Users are more likely to take desired actions (such as macking a purchase or filling out a form) on a site that is easy to navigate and provides valuable information.
+4.->  Local business presence Seo is crucial for ensuring that your business appears  in local search results. This is essential for attracting nearby customers and increasing foot traffic to physical locations.

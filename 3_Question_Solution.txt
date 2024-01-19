@@ -1,0 +1,12 @@
+* Question_Ans_3 *
+
+Benefits of using Meta tags:
+
+1. Social media sharing:
+-> Open graph meta tags and twitter meta tags enable better control over how content appears when shared on social media platforms. They allow you to specify the title, description, image, and other element for a more appealing presentation.
+2. Accessibility:
+-> Accessibility refers descriptive meta tags contribute to the accessibility of a website by providing clear informaion about the web page content. This is particularly important for users who rely on screen readers or other assistive technologies.
+3. Improved search engine results:
+-> Well-crafted meta tags can enhance the appearance of search engine results by providing a clear and compelling title and description. This can attract more users to click on the link, increasing organic traffic.
+4. HTTP-Eqiv tags:
+-> Meta tag with Http-Eqiv attribute (e.g<meta http-eqiv="refresh">) enable specific Http header functionalities, like refreshing or redirecting the page after a certain time.

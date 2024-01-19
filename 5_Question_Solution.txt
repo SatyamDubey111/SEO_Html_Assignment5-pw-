@@ -1,0 +1,20 @@
+* Question_Ans_5 *
+
+Favicon:
+-> A favicaon that stands for favorite icon is a tiny include along a website which is displays in a places like a browser's address bar, page tabs, and book mark menu. It is usually 16*16 pixel in size and stored in GIF, PNG, or ICO File format. Favicon provide a visual representation of a website, helping users quickly identify and locate it among multiple open tabs or bookmarks.They are used to improve user experience and enforce brand consistencty. When a familiar icon is seen in the browser address bar.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>This is mega mart online store</title>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <!-- Your website content goes here -->
+</body>
+</html>
+
